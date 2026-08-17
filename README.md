@@ -3,6 +3,8 @@
 This is a well-structured Power BI dashboard tracking the performance of Pathfinder Supermarket across regions and product categories.  
 Pathfinder Supermarket Dashboard Analysis
 
+![image alt](https://github.com/isaacayeni225/PATHFINDER-SUPERMARKET-DASHBOARD-ANALYSIS-/blob/7f25183c95b8b5d02b09674f6a539f6b5b4e9b55/PATHFINDER.png)
+
 ### Key Insights
 1. Healthy Overall Profitability
   A Net Profit Margin of 24.2% (₦1.24M profit on ₦5.1M revenue) is strong for a supermarket. This indicates good cost control and a healthy product mix.
